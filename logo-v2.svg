@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 50" fill="none">
+  <!-- Logo B: Sharp uppercase sans, one disrupted letter (offset Y) -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+    </style>
+  </defs>
+  <!-- SHRE -->
+  <text x="0" y="34" font-family="'Outfit', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#1C1B18" letter-spacing="0.18em">SHRE</text>
+  <!-- Y — shifted up 4px as the disruption -->
+  <text x="94" y="30" font-family="'Outfit', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#A37B1E" letter-spacing="0.18em">Y</text>
+  <!-- AS -->
+  <text x="116" y="34" font-family="'Outfit', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#1C1B18" letter-spacing="0.18em">AS</text>
+  <!-- Tight gap -->
+  <!-- BHARADWAJ in lighter weight -->
+  <text x="170" y="34" font-family="'Outfit', Helvetica, Arial, sans-serif" font-size="26" font-weight="300" fill="#1C1B18" letter-spacing="0.18em">BHARADWAJ</text>
+</svg>
